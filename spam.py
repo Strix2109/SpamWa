@@ -1,11 +1,10 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
-# Tidak ada author Untuk Sc ini kecuali ./Kitsune yg Telah Mendesign Dengan Sempurna
-# Update 26 january 2020 21:57
-# Recode!, dosa Tanggung Sendiri
-# Thanks For MyFriends, FourX, MhankBarBar, Maulana, Rexy
-# Underground Science And Termux Tutorial Group
+# Author- Sant kr. (Admin of Strix Cyber Community)
+# Instagram- @strix_21
+# YouTube- STRIX.D
+# This tool is for educational purpose only..! Use at your own risk...
 # ---------------------------------------------------------------
 
 # -----------------------WARNA----------------------------
@@ -219,8 +218,8 @@ def logo():
 %s╲┃┈┈┈┈┈┈┈┈┈┈▉▉▉%s╲%s╚═╗║║║╚═╗
 %s╲┃┈┈┈┈┈┈┈┈┈┈◥▉◤%s╲%s╚═╝╩ ╩╚═╝
 %s╲┃┈┈┈┈╭━┳━━━━╯%s╲╲%s╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗
-%s╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝
-%s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩  
+%s╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝        Instagram- @strix_21
+%s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩          YouTube- STRIX.D (search on youtube)
 %s''' % (k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,auth)
 # -----------------------------------------------------------
 def termux():
