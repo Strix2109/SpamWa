@@ -1,4 +1,4 @@
-# SpamWa
+# This tool is for educational purpose only..! Use at your own risk...
 
 <p align="center"><img src="https://1.bp.blogspot.com/-RW2NqQ7QGdA/YKJs0Ta_VXI/AAAAAAAAAis/UWth1HIfddsLC4M9QT0fBdG2GVkhckCdQCNcBGAsYHQ/w400-h245/IMG_20210517_184539.jpg"></p>
 
@@ -16,10 +16,14 @@
 </p>
 
 
-## Installation & Usage in Termux 
+## Installation in Termux & Linux
+* pkg update
+* pkg upgrade -y
 * pkg install python
 * pkg install git
 * python3 -m pip install requests
-* git clone https://github.com/sandiwijayani1/SpamWa
+* git clone https://github.com/Strix2109/SpamWa.git
 * cd SpamWa
 * python3 spam.py
+
+# Thanks for Visiting
