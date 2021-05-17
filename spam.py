@@ -220,8 +220,8 @@ def logo():
 %s╲┃┈┈┈┈╭━┳━━━━╯%s╲╲%s╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗
 %s╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝
 %s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩  
-%s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%sYouTube- STRIX.D (search on youtube)
-%s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%sInstafram- @strix_21
+YouTube- STRIX.D (search on youtube)
+Instagram- @strix_21
 %s''' % (k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,auth)
 # -----------------------------------------------------------
 def termux():
