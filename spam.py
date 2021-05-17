@@ -1,11 +1,10 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
-# Tidak ada author Untuk Sc ini kecuali ./Kitsune yg Telah Mendesign Dengan Sempurna
-# Update 26 january 2020 21:57
-# Recode!, dosa Tanggung Sendiri
-# Thanks For MyFriends, FourX, MhankBarBar, Maulana, Rexy
-# Underground Science And Termux Tutorial Group
+# Author- Sant kr. (Admin of Strix Cyber Community)
+# Instagram- @strix_21
+# YouTube- STRIX.D
+# This tool is for educational purpose only..! Use at your own risk...
 # ---------------------------------------------------------------
 
 # -----------------------WARNA----------------------------
@@ -209,7 +208,7 @@ def multi():
 #-------------------------Fungsi Banner-----------------------
 def logo():
 	os.system('clear')
-	auth=m+'  Author : '+k+'./kitsune'
+	auth=m+'  Author : '+k+'Sant kr. (Admin of Strix Cyber Community)'
 	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
 %s╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s╔═╗╔═╗╔═╗╔╦╗
@@ -221,6 +220,8 @@ def logo():
 %s╲┃┈┈┈┈╭━┳━━━━╯%s╲╲%s╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗
 %s╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝
 %s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩  
+%s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%sYouTube- STRIX.D (search on youtube)
+%s╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%sInstafram- @strix_21
 %s''' % (k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,k,m,h,auth)
 # -----------------------------------------------------------
 def termux():
